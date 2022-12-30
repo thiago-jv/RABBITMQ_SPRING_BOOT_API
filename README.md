@@ -7,3 +7,7 @@ Projeto demonstrativo para controle de checkout, onde são utilizadas as seguint
 # Documentação do projeto - Swagger API
 
 ![Swagger APIo](https://github.com/thiago-jv/RABBITMQ_SPRING_BOOT_API/blob/main/swagger.png)
+
+# Docker
+
+![Docker](https://github.com/thiago-jv/RABBITMQ_SPRING_BOOT_API/blob/main/docker.png)
