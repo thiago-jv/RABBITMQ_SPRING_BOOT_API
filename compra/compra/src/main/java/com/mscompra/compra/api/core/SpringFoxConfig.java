@@ -118,7 +118,7 @@ public class SpringFoxConfig implements WebMvcConfigurer {
 
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
-				.title("SIS APARTAMENTOS - API")
+				.title("SIS CHECKOUT - API")
 				.description("Api para controle de compras")
 				.version("1")
 				.contact(new Contact("Thiago Henrique", "https://github.com/thiago-jv/", "thiago.henrique.25@hotmail.com"))

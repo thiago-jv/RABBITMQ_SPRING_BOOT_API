@@ -18,7 +18,7 @@ import javax.validation.Valid;
 
 @Api(tags = "Compras")
 @RestController
-@RequestMapping("/pedidos")
+@RequestMapping("/v1/pedidos")
 public class PedidoController {
 
     @Autowired
