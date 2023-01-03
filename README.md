@@ -11,3 +11,7 @@ Projeto demonstrativo para controle de checkout, onde são utilizadas as seguint
 # Docker
 
 ![Docker](https://github.com/thiago-jv/RABBITMQ_SPRING_BOOT_API/blob/main/docker.png)
+
+# Rabbitmq
+
+![Rabbitmq](https://github.com/thiago-jv/RABBITMQ_SPRING_BOOT_API/blob/main/rabbitmq.png)
