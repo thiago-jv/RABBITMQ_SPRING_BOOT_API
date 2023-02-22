@@ -15,3 +15,7 @@ Projeto demonstrativo para controle de checkout, onde são utilizadas as seguint
 # Rabbitmq
 
 ![Rabbitmq](https://github.com/thiago-jv/RABBITMQ_SPRING_BOOT_API/blob/main/rabbitmq.png)
+
+# Eureka - Server
+
+![eureka](https://github.com/thiago-jv/RABBITMQ_SPRING_BOOT_API/blob/main/eureka-server.png)
